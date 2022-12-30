@@ -2,6 +2,8 @@
 
 Part of ISDN1011 industrial training
 
+![Demonstration GIF](cover.gif)
+
 ## Hardware
 
 Arduino Nano. 
